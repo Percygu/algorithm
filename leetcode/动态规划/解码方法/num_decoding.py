@@ -21,3 +21,4 @@ class solution:
 if __name__ == "__main__":
     s = solution()
     print(s.GetSumOfDecodings('21216'))    
+    
